@@ -6,7 +6,7 @@
 ```bash=¨
 git status
 ```
-Это пример работы команды ***git status***.
+>Это пример работы команды ***git status***.
 
 ![example git status](git.status.PNG)
 
