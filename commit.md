@@ -1,4 +1,4 @@
-## git commit -m "Commit message"
+## git commit
 
 **git commit -m *"Commit message"*** - Создание коммита:
 
