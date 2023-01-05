@@ -7,17 +7,17 @@ LICENSE: [MIT](./license.md)
 ---
 ### Содержание
 1. #### Настройка
-   1. [git config](config.md)
+   + [git config](config.md)
 2. #### Репозиторий
-   1. [git init](init.md)
-   2. [git clone](clone.md)
+   + [git init](init.md)
+   + [git clone](clone.md)
 3. #### Создание коммита
-   1. [git status](status.md)
-   2. [git add](add.md)
-   3. [git commit](commit.md)
+   + [git status](status.md)
+   + [git add](add.md)
+   + [git commit](commit.md)
 4. #### Пуш в репозиторий
-   1. [git push](push.md)
-   2. [git remote](remote.md)
+   + [git remote](remote.md)
+   + [git push](push.md)
 
 
 
