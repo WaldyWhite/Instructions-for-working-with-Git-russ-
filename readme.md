@@ -7,6 +7,7 @@ LICENSE: [MIT](./license.md)
 ---
 ### <p style='text-align:center'>Содержание</p>
 
+<img src='kisspng-github-scalable-vector.png' style='float:right; width:300px; height:350px; opacity:0.4'>
 
 1. #### Настройка
    + [git config](config.md)
