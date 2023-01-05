@@ -22,4 +22,6 @@ git add —force
 ```
 
 ![git add](git.add.PNG)
+
+
 ---

@@ -7,4 +7,7 @@
 git push -u origin master
 ```
 - отправляем в репозиторий
+
+![git push](git.push.PNG)
+
 ---
