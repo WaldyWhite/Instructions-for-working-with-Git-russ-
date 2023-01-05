@@ -18,7 +18,9 @@ LICENSE: [MIT](./license.md)
 4. #### Пуш в репозиторий
    + [git remote](remote.md)
    + [git push](push.md)
-5. [Этапы работы](stages_Of_Work.md)
+5. Обновление локального репозитория
+   + [pull](pull.md)
+6. [Этапы работы](stages_Of_Work.md)
    
 
 

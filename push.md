@@ -5,3 +5,4 @@
 ```bash=
 git push -u origin master
 ```
+- отправляем в репозиторий
