@@ -21,6 +21,7 @@ LICENSE: [MIT](./license.md)
 5. Обновление локального репозитория
    + [pull](pull.md)
 6. [Этапы работы](stages_Of_Work.md)
+7. [Краткая справка команд](commands.md)
    
 
 
@@ -30,3 +31,4 @@ LICENSE: [MIT](./license.md)
 ---
 Git Logo by Jason Long https://git-scm.com/downloads/logos,
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+

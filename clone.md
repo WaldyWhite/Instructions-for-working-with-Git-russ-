@@ -1,4 +1,5 @@
 ## git clone
+---
 <br>
 
 Создадёт рабочую копию.
@@ -13,3 +14,4 @@ git clone[url]
 ```bash=
 git clone --branch=branch-name http://whatever.git
 ```
+---

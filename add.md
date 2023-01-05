@@ -1,4 +1,5 @@
 ## git add
+---
 <br>
 
 Добавление **одного** файла в коммит.
@@ -19,3 +20,4 @@ git add —update
 ```bash=
 git add —force 
 ```
+---
