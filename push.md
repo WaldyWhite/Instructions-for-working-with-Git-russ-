@@ -1,6 +1,7 @@
-## git push origin master
+## git push
+<br>
 
-**git push origin master** - Пуш в репозиторий:
+Пуш в репозиторий:
 ```bash=
-git push origin master
+git push -u origin master
 ```

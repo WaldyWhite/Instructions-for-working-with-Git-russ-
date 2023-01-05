@@ -1,10 +1,10 @@
 ## git remote
 
-**git remote add origin *[ сервер ]*** - Работа с удалёнными репозиториями:
+**git remote add origin *[ сервер ]*** - Работа с удалёнными репозиториями.
 ```bash=
 git remote add origin [сервер]
 ```
-пример:
+Пример:
 ```bash=
 git remote add origin https://github.com/someone/something.git
 ```
