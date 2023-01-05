@@ -1,4 +1,4 @@
-## git status
+## <p style='text-align:center'>git status</p>
 ---
 <br>
 

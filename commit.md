@@ -1,4 +1,4 @@
-## git commit
+## <p style='text-align:center'>git commit</p>
 ---
 <br>
 

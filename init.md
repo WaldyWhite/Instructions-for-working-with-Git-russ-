@@ -1,4 +1,4 @@
-## git init
+## <p style='text-align:center'>git init</p>
 ---
 <br>
 

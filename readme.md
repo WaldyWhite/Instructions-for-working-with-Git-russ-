@@ -1,11 +1,13 @@
-# Инструкция по работе с Git
+# <p style='text-align:center'>Инструкция по работе с Git</p>
 
 LICENSE: [MIT](./license.md)
 
 ![git-logo](Git-Logo-1788C.png)
 
 ---
-### Содержание
+### <p style='text-align:center'>Содержание</p>
+
+
 1. #### Настройка
    + [git config](config.md)
 2. #### Репозиторий
@@ -22,13 +24,9 @@ LICENSE: [MIT](./license.md)
    + [pull](pull.md)
 6. [Этапы работы](stages_Of_Work.md)
 7. [Краткая справка команд](commands.md)
-   
-
-
-
-
 
 ---
+
 Git Logo by Jason Long https://git-scm.com/downloads/logos,
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 

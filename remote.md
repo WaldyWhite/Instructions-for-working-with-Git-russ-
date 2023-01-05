@@ -1,4 +1,4 @@
-## git remote
+## <p style='text-align:center'>git remote</p>
 ---
 <br>
 

@@ -1,4 +1,4 @@
-## git push
+## <p style='text-align:center'>git push</p>
 ---
 <br>
 

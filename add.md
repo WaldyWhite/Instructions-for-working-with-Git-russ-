@@ -1,4 +1,4 @@
-## git add
+## <p style='text-align:center'>git add</p>
 ---
 <br>
 
@@ -20,4 +20,6 @@ git add —update
 ```bash=
 git add —force 
 ```
+
+![git add](git.add.PNG)
 ---

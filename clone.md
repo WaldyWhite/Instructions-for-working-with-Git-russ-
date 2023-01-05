@@ -1,4 +1,4 @@
-## git clone
+## <p style='text-align:center'>git clone</p>
 ---
 <br>
 

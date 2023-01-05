@@ -1,4 +1,4 @@
-## git config
+## <p style='text-align:center'>git config</p>
 ---
 <br>
 
