@@ -4,3 +4,7 @@
 ```bash=
 git remote add origin [сервер]
 ```
+пример:
+```bash=
+git remote add origin https://github.com/someone/something.git
+```
