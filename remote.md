@@ -6,6 +6,8 @@
 ```bash=
 git remote add origin [сервер]
 ```
+<br>
+
 >Пример: *указываем путь в репозиторий*.
 ```bash=
 git remote add origin https://github.com/someone/something.git
