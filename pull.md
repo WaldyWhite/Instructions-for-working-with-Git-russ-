@@ -11,7 +11,7 @@
 ```bash=
 git pull [ветка]
 ```
-- >*git pull [ветка] - например **origin master***
+- *git pull [ветка] - например **origin master***
 
 <br>
 

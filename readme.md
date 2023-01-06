@@ -7,6 +7,7 @@ LICENSE: [MIT](./license.md)
 ---
 <h2 align="center">Содержание</h2>
 
+
 1. #### Настройка
    + [git config](config.md)
 2. #### Репозиторий
@@ -23,6 +24,8 @@ LICENSE: [MIT](./license.md)
    + [pull](pull.md)
 6. **[Этапы работы](stages_Of_Work.md)**
 7. **[Краткая справка команд](commands.md)**
+
+
 
 ---
 
