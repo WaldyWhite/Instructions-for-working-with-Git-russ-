@@ -4,7 +4,8 @@ LICENSE: [MIT](./license.md)
 
 ![git-logo](Git-Logo-1788C.png)
 
----<h2 align="center">Содержание</h2>
+---
+<h2 align="center">Содержание</h2>
 
 1. #### Настройка
    + [git config](config.md)
