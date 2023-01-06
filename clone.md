@@ -16,7 +16,7 @@ git clone[url]
 
 Давайте выполним команду git clone и посмотрим что произойдёт.
 
-![git clone](git.clone.PNG)
+<p align='center'><img src='git.clone.PNG'></p>
 
 Отлично! мы с клонировали репозиторий, то есть создали рабочую копию.
 
