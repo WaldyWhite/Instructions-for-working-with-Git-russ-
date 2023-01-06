@@ -4,8 +4,7 @@ LICENSE: [MIT](./license.md)
 
 ![git-logo](Git-Logo-1788C.png)
 
----
-### <p style='text-align:center'>Содержание</p>
+---<h2 align="center">Содержание</h2>
 
 1. #### Настройка
    + [git config](config.md)
@@ -19,10 +18,10 @@ LICENSE: [MIT](./license.md)
 4. #### Пуш в репозиторий
    + [git remote](remote.md)
    + [git push](push.md)
-5. Обновление локального репозитория
+5. #### Обновление локального репозитория
    + [pull](pull.md)
-6. [Этапы работы](stages_Of_Work.md)
-7. [Краткая справка команд](commands.md)
+6. **[Этапы работы](stages_Of_Work.md)**
+7. **[Краткая справка команд](commands.md)**
 
 ---
 

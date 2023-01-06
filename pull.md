@@ -1,4 +1,4 @@
-## <p style='text-align:center'>git pull</p>
+## git pull
 ---
 <br>
 
