@@ -15,8 +15,12 @@ git remote add origin [сервер]
 - >Где ***[ сервер ]*** — это путь до репозитория.
 <br>
 
-Теперь полностью копируем команду git remote с адресом  репозитория и вставляем в GitBash
+Теперь полностью копируем команду git remote с адресом  репозитория и вставляем в GitBash.
 ```bash=
 git remote add origin https://github.com/someone/something.git
 ```
+![git remote](git.remote.PNG)
+
+Отлично! теперь путь в наш репозиторий указан и можно переходить к седующей команде.
+ 
 ---
