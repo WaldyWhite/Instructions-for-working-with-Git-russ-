@@ -12,7 +12,7 @@ git init
 ```
 <br>
 
-![git init ok](git.init.ok.PNG)
+<p align='center'><img src='git.init.ok.PNG'></p>
 
 - >_Отлично ! Локальный репозиторий в этой папке создан. То, что здесь сейчас хранится, будет бекапом_.
 
