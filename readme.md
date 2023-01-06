@@ -26,6 +26,6 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-Git Logo by Jason Long https://git-scm.com/downloads/logos,
-license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+<p align="center">Git Logo by Jason Long https://git-scm.com/downloads/logos,
+license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)</p>
 

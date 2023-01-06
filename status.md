@@ -8,7 +8,7 @@ git status
 ```
 <br>
 
->Это пример работы команды ***git status***.
+- >_Это пример работы команды ***git status***_.
 
 ![example git status](git.status.PNG)
 
