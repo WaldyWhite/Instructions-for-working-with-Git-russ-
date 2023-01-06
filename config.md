@@ -2,7 +2,7 @@
 
 ---
 ## git config
-***
+
 
 <br>
 

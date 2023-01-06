@@ -1,8 +1,8 @@
 [Главная](readme.md) 
 
 ---
-## git status
-***
+## git status ##
+
 
 <br>
 
