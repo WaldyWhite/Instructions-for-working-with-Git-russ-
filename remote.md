@@ -23,7 +23,7 @@ git remote add origin [сервер]
 ```bash=
 git remote add origin https://github.com/someone/something.git
 ```
-![git remote](git.remote.PNG)
+<p align='center'><img src='git.remote.PNG'></p>
 
 Отлично! теперь путь в наш репозиторий указан и можно переходить к седующей команде.
  
