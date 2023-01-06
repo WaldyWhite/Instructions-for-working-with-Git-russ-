@@ -14,9 +14,9 @@
 
 <p align='center'><img src='git.push.github.PNG'></p>
 
-- > Обратите внимание на GitHub в конце команды указана ветка ***main***, нам же нужно указать ***master***
+- Обратите внимание на GitHub в конце команды указана ветка ***main***, нам же нужно указать ***master***
 
-- > Можно проверить в левом нижнем углу VS-Code
+- Можно проверить в левом нижнем углу VS-Code
 <p align='center'><img position='center' src='vscode.PNG'></p>
 
 ```bash=
