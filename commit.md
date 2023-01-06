@@ -1,7 +1,7 @@
 [Главная](readme.md) 
 
 ---
-## git commit
+## <p align='center'>git commit</p>
 
 
 <br>

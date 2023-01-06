@@ -1,7 +1,7 @@
 [Главная](readme.md) 
 
 ---
-## git remote
+## <p align='center'>git remote</p>
 
 
 <br>

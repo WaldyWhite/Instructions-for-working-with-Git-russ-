@@ -1,8 +1,7 @@
 [Главная](readme.md) 
 
 ---
-## git status ##
-
+## <p align='center'>git status </p>
 
 <br>
 

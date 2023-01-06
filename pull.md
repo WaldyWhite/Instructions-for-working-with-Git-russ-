@@ -1,7 +1,7 @@
 [Главная](readme.md) 
 
 ---
-## git pull
+## <p align='center'>git pull</p>
 
 
 <br>

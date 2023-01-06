@@ -1,7 +1,7 @@
 [Главная](readme.md)
 
 ---
-## git add
+## <p align='center'>git add</p>
 
 
 <br>

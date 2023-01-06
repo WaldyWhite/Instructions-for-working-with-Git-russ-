@@ -1,7 +1,7 @@
 [Главная](readme.md) 
 
 ---
-## git push
+## <p align='center'>git push</p>
 
 
 <br>

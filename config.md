@@ -1,7 +1,7 @@
 [Главная](readme.md)
 
 ---
-## git config
+## <p align='center'>git config</p>
 
 
 <br>

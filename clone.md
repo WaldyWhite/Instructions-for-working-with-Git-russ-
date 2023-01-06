@@ -1,7 +1,7 @@
 [Главная](readme.md) 
 
 ---
-## git clone
+## <p align='center'>git clone</p>
 
 
 <br>

@@ -1,7 +1,7 @@
 [Главная](readme.md) 
 
 ---
-## git init
+## <p align='center'>git init</p>
 
 
 <br>
