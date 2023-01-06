@@ -13,7 +13,7 @@ git status
 
 - _В данном примере мы видим сообщение ( **modified : stages_Of_Work.md** ) указывающее на то что в файл **stages_Of_Work.md** были внесены изменения_.
 
-![example git status](git.status.PNG)
+<p align='center'><img src='git.status.PNG'></p>
 
 ---
 [ < назад](clone.md) &nbsp;&nbsp;&nbsp;&nbsp; [вперёд >](add.md)
