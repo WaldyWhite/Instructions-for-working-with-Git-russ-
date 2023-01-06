@@ -1,5 +1,8 @@
 ## git clone
 ---
+[Главная](readme.md) 
+
+---
 <br>
 
 Для того чтобы создать рабочую копию можно воспользоваться командой **git clone**.
@@ -23,3 +26,4 @@ git clone[url]
 git clone --branch=branch-name http://whatever.git
 ```
 ---
+[ < назад](init.md) &nbsp;&nbsp;&nbsp;&nbsp; [вперёд >](status.md)

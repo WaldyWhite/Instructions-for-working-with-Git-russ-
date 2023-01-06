@@ -1,5 +1,8 @@
 ## git commit
 ---
+[Главная](readme.md) 
+
+---
 <br>
 
  После того как мы добавили наши файлы с помощью команды ***git add***. нам необходимо их _закоммитить_.
@@ -32,3 +35,4 @@ git add file_4.md
 git commit -m "Commit message for file_3.md and file_4.md"
 ```
 ---
+[ < назад](add.md) &nbsp;&nbsp;&nbsp;&nbsp; [вперёд >](remote.md)

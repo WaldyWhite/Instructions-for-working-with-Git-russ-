@@ -1,5 +1,8 @@
 ## git remote
 ---
+[Главная](readme.md) 
+
+---
 <br>
 
 Прежде чем добавлять что либо в удаленный репозиторий, нам нужно его создать на GitHub.
@@ -24,3 +27,4 @@ git remote add origin https://github.com/someone/something.git
 Отлично! теперь путь в наш репозиторий указан и можно переходить к седующей команде.
  
 ---
+[ < назад](commit.md) &nbsp;&nbsp;&nbsp;&nbsp; [вперёд >](push.md)

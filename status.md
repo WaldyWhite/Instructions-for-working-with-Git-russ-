@@ -1,5 +1,8 @@
 ## git status
 ---
+[Главная](readme.md) 
+
+---
 <br>
 
 Чтобы узнать статус репозитория нам понадобится команда **git status** давайте зададим её в Git Bash.
@@ -13,3 +16,4 @@ git status
 ![example git status](git.status.PNG)
 
 ---
+[ < назад](clone.md) &nbsp;&nbsp;&nbsp;&nbsp; [вперёд >](add.md)

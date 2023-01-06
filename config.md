@@ -1,5 +1,8 @@
 ## git config
 ---
+[Главная](readme.md)
+
+---
 <br>
 
 Первым делом до начала работы, нужно внести глобальные настройки.
@@ -11,3 +14,4 @@ git config --global user.name "My Name"
 git config --global user.email myEmail@example.com
 ```
 ---
+[ < назад](readme.md) &nbsp;&nbsp;&nbsp;&nbsp; [вперёд >](init.md)
