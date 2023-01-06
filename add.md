@@ -38,7 +38,7 @@ git add —force
 
 Bведём в командной строке, Git Bash или Терминале VS-Code команду **git add .** и добавим все файлы в коммит.
 
-![git add](git.add.PNG)
+<p align='center'><img src='git.add.PNG'></p>
 
 Отлично! файлы добавлены.
 

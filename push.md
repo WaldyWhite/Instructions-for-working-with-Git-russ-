@@ -12,11 +12,12 @@
 
 Для того чтобы залить всё в репозиторий, давайте в командной строке в GitBash или в терминале VS-Code (_кому как удобно_) выполним команду **git push**.
 
-![git push](git.push.github.PNG)
+<p align='center'><img src='git.push.github.PNG'></p>
 
 - _Обратите внимание на GitHub в конце команды указана ветка ***main***, нам же нужно указать ***master***_
 
 - _Можно проверить в левом нижнем углу VS-Code_
+
 <p align='center'><img position='center' src='vscode.PNG'></p>
 
 ```bash=
@@ -26,7 +27,7 @@ git push -u origin master
 
 Выполним команду
 
-![git push](git.push.PNG)
+<p align='center'><img src='git.push.PNG'></p>
 
 Отлично!
 
